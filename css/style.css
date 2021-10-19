@@ -31,7 +31,7 @@ img {
   max-width: 100%;
 }
 
-/* Superfino */
+/* superinfo */
 .superinfo-bg {
   background: #122ab2;
   color: white;
@@ -54,9 +54,9 @@ img {
 .superinfo a {
   color: white;
 }
-/* Fim superinfo */
+/* fim superinfo */
 
-/* Menu */
+/* menu */
 .menu-bg {
   background: #2c70ff;
 }
@@ -96,9 +96,9 @@ img {
 .menu-nav a:hover {
   color: #122ab2;
 }
-/* Fim Menu*/
+/* fim menu */
 
-/* Introdução */
+/* introducao */
 .introducao {
   font-size: 3em;
   line-height: 1;
@@ -106,9 +106,9 @@ img {
   margin: 0 auto;
   padding: 60px 10px;
 }
-/* Fim Introducao*/
+/* fim introducao */
 
-/* Sobre */
+/* sobre */
 .sobre {
   border-top: 2px solid #2c70ff;
   border-bottom: 2px solid #2c70ff;
@@ -140,9 +140,9 @@ img {
   flex: 1 1 160px;
   margin: 0 10px;
 }
-/* Fim sobre */
+/* fim sobre */
 
-/* Produtos */
+/* produtos */
 .produtos {
   max-width: 960px;
   margin: 60px auto;
@@ -182,9 +182,9 @@ img {
 .blue {
   border-top: 8px solid #66d9eb;
 }
-/* Fim Produtos */
+/* fim produtos */
 
-/* Preco */
+/* preco */
 .preco {
   background: #f7f7f7;
   padding: 60px;
@@ -260,9 +260,9 @@ img {
   padding: 15px 0;
   text-align: center;
 }
-/* Fim Preco */
+/* fim preco */
 
-/* Qualidade */
+/* qualidade */
 .qualidade {
   max-width: 960px;
   margin: 60px auto;
@@ -307,9 +307,9 @@ img {
   line-height: 1.4;
   color: #7c7c7c;
 }
-/* Fim Qualidade */
+/* fim qualidade */
 
-/* Newsletter */
+/* newsletter */
 .newsletter {
   background: #f7f7f7;
   padding: 60px calc((100% - 960px) / 2);
@@ -370,9 +370,9 @@ img {
   border: 0;
   padding: 15px 10px;
 }
-/* Fim Newsletter */
+/* fim newsletter */
 
-/* Footer */
+/* footer */
 .footer {
   display: flex;
   align-items: center;
@@ -386,9 +386,9 @@ img {
   font-size: 2.25em;
   color: white;
 }
-/* Fim Footer */
+/* fim footer */
 
-/* MEDIAS */
+/* medias */
 @media (max-width: 800px) {
   .preco {
     padding-left: 10px;
