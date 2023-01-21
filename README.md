@@ -1,5 +1,28 @@
-# FlexBlog
+<h1 align="center"> FlexBlog </h1>
 
-Neste projeto é utilizado apenas HTML e CSS, sendo um layout responsivo utilizando apenas as propriedades do Flexbox. Projeto do curso de CSS Flexbox da Origamid.
+<p align="center">
+Projeto criado a partir do curso de CSS Flexbox da Origamid.<br/>
+</p>
 
-https://iasmincorrea.github.io/FlexBlog/
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>
+</p>
+
+<br>
+
+## 🚀 Tecnologias
+
+- HTML5
+- CSS3
+
+## 💻 Projeto
+
+O Flexblog é um site responsivo utilizando apenas as propriedades do Flexbox.
+
+- [Visite o projeto online](https://iasmincorrea.github.io/FlexBlog/)
+
+## 🔖 Layout
+
+O layout do projeto foi disponibilizado pela própria Origamid.
